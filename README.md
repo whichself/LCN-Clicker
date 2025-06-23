@@ -1,0 +1,2 @@
+# LCN-Clicker
+Minecraft AutoClicker
